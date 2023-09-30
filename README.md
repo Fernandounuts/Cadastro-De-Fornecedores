@@ -22,3 +22,5 @@
 ### Caso esteja no Windows
 
 -   Você pode iniciar o docker compose manualmente e dar o update na database da forma que escolher
+
+-   para rodar o docker compose, basta escrever `docker compose up -d` no terminal dentro do root deste projeto
