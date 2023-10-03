@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/fernando/Projetos/cadastrodaniel/CadastroDeFornecedores/CadastroDeFornecedores.csproj": {}
+    "/home/fernando/Projetos/Cadastro-De-Fornecedores/CadastroDeFornecedores.csproj": {}
   },
   "projects": {
-    "/home/fernando/Projetos/cadastrodaniel/CadastroDeFornecedores/CadastroDeFornecedores.csproj": {
+    "/home/fernando/Projetos/Cadastro-De-Fornecedores/CadastroDeFornecedores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fernando/Projetos/cadastrodaniel/CadastroDeFornecedores/CadastroDeFornecedores.csproj",
+        "projectUniqueName": "/home/fernando/Projetos/Cadastro-De-Fornecedores/CadastroDeFornecedores.csproj",
         "projectName": "CadastroDeFornecedores",
-        "projectPath": "/home/fernando/Projetos/cadastrodaniel/CadastroDeFornecedores/CadastroDeFornecedores.csproj",
+        "projectPath": "/home/fernando/Projetos/Cadastro-De-Fornecedores/CadastroDeFornecedores.csproj",
         "packagesPath": "/home/fernando/.nuget/packages/",
-        "outputPath": "/home/fernando/Projetos/cadastrodaniel/CadastroDeFornecedores/obj/",
+        "outputPath": "/home/fernando/Projetos/Cadastro-De-Fornecedores/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/fernando/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2bwAI61vLNNQY9RvAVKvbFc4VKJ7LLb6kKXMkwaiuAz97YpNyNFrZRSVRZeug7JhOrP8bnPfaR65oxsugp0oeA==",
+  "dgSpecHash": "If1ncN9636VkYvA++69VVkqv6S8eK6WWTTYIMuz282OkkbwgyeP2gskGHEmUtldFEvoces/gvPihqIzGBt6v7g==",
   "success": true,
-  "projectFilePath": "/home/fernando/Projetos/cadastrodaniel/CadastroDeFornecedores/CadastroDeFornecedores.csproj",
+  "projectFilePath": "/home/fernando/Projetos/Cadastro-De-Fornecedores/CadastroDeFornecedores.csproj",
   "expectedPackageFiles": [
     "/home/fernando/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/fernando/.nuget/packages/microsoft.entityframeworkcore/7.0.11/microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
